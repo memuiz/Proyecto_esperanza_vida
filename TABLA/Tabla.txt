@@ -1,2 +1,0 @@
-Tabla ordenada de menor a menor diferencia de esperanza de
-vida (mujer – hombre)
