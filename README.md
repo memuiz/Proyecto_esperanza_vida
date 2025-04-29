@@ -11,6 +11,4 @@ Objetivos:
 
 Contenido del repositorio:
 
-- Carpetas ESPAÑA Y FRANCIA, TURQUÍA y TABLA.
-
-Cada carpeta contiene un jupyter notebook con el código, un archivo .yml (entorno) y las gráficas visualizadas.
+Jupyter notebook con el código, un archivo .yml (entorno) y las gráficas visualizadas.
