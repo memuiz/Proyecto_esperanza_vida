@@ -11,4 +11,4 @@ Objetivos:
 
 Contenido del repositorio:
 
-Jupyter notebook con el código, un archivo .yml (entorno) y las gráficas visualizadas.
+Jupyter notebook con el código, un archivo .txt (entorno) y las gráficas visualizadas.
